@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋 I'm Aryan Kapoor</h1>
-<h3 align="center">🚀 B.Tech Computer Science & Engineering | Punjabi University, Patiala | Building real stuff with code</h3>
-
+<h1 align="center">Aryan Kapoor</h1>
+<h3 align="center">Full-Stack Developer | B.Tech CSE, Punjabi University Patiala | Building real things with code</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+in+C%2B%2B+%7C+Day+by+Day+%F0%9F%94%A5;Computer+Networking+%7C+Going+Deep+%F0%9F%8C%90;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+in+C%2B%2B+%7C+Daily+Practice;Computer+Networking+%7C+Completed;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,8 +14,7 @@
 - 🔥 **Member** — Google Firebase Studio Developer Community
 - ☁️ **Google Cloud Arcade** participant
 - 🌱 Currently learning **DSA in C++** and **Computer Networking**
-- 💼 Co-built & deployed a **live e-commerce site** with Razorpay payments alongside a friend
-- ⚡ Fun fact: I debug better with coffee ☕
+- 💼 Built & deployed a **live e-commerce site** with Razorpay payments
 
 ---
 
@@ -24,7 +22,7 @@
 
 - 📚 **DSA in C++** — Solving problems daily (Coder Army playlist) — Pattern Printing → Arrays → Sorting
 - 🌐 **Computer Networking** — Deep diving into protocols, OSI model, TCP/IP
-- 🛒 **IR Punjabi Jutti** — Ongoing feature additions to live e-commerce project (built with a friend)
+- 🛒 **IR Punjabi Jutti** — Ongoing feature additions to live e-commerce project
 
 ---
 
@@ -40,7 +38,7 @@
 | 🔑 React-Password-Generator | Customizable password generator with adjustable length & special characters | React, JavaScript | [View→](https://github.com/aryankapoor-dev/React-Password-Generator) |
 | 🛍️ Myntra-Clone | Responsive clone of Myntra's homepage — first React project, front page only, built for practice | React, Parcel, JS, HTML, CSS | [View→](https://github.com/aryankapoor-dev/Myntra-Clone) |
 | 💻 C-Programming-Collection | Collection of C programs written while learning the language — basics, math, loops, recursion, arrays, pointers, structures | C | [View→](https://github.com/aryankapoor-dev/C-Programming-Collection) |
-| ✂️ Rock-Paper-Scissors-Game | Classic Rock Paper Scissors, playable in-browser | JavaScript | [View →](https://github.com/aryankapoor-dev/Rock-Paper-Scissors-Game) |
+| ✂️ Rock-Paper-Scissors-Game | Classic Rock Paper Scissors, playable in-browser | JavaScript | [View→](https://github.com/aryankapoor-dev/Rock-Paper-Scissors-Game) |
 | 🧩 React-Mini-Projects | Practice-driven collection focused on Hooks, component architecture & modern frontend techniques | React, JavaScript | [View→](https://github.com/aryankapoor-dev/React-Mini-Projects) |
 
 ---
@@ -96,7 +94,7 @@
 - 📊 **SGPA: 8.82** (Sem 1) — Punjabi University, Patiala
 - 🏅 **GitHub Achievements** — Pull Shark, Quickdraw
 - 🏆 **Unstop** — Active participant in hackathons & coding challenges
-- 💼 **Live Project** — Co-built and deployed an e-commerce site with real Razorpay payment integration
+- 💼 **Live Project** — Built and deployed an e-commerce site with real Razorpay payment integration
 
 ---
 
