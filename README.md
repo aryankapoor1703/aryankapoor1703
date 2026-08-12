@@ -104,11 +104,11 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aryankapoor-dev&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryankapoor-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryankapoor-dev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryankapoor-dev&show_icons=true&theme=radical&hide_border=true" />
+  <img width="97%" src="https://github-stats-extended.vercel.app/api?username=aryankapoor-dev&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 ---
